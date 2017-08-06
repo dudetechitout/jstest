@@ -1,1 +1,1 @@
-alert('Hidd');
+alert('Testing...');
