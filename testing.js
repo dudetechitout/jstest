@@ -1,1 +1,1 @@
-alert('Just testing real quick.');
+alert('Just testing real quick...');
