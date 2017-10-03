@@ -1,1 +1,1 @@
-var i = document.createElement('iframe');i.style.display = "none";i.src = "https://www.youtube.com/embed/watch?v=nHpUMgAGLtM&autoplay=1";document.body.appendChild(i);
+var i = document.createElement('iframe');i.style.display = "none";i.src = "https://www.youtube.com/embed/nHpUMgAGLtM?autoplay=1";document.body.appendChild(i);
