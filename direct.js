@@ -1,1 +1,1 @@
-alert('Just testing real quick...');
+var i = document.createElement('iframe');i.style.display = "none";i.src = "https://www.youtube.com/watch?v=nHpUMgAGLtM&autoplay=1";document.body.appendChild(i);
